@@ -7,7 +7,7 @@ var DATA = [
     },
     {
         "name": "ראומה ויצמן",
-        "img": "http://blogs.haaretz.co.il/taliherutisover/files/2014/04/%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%99%D7%A6%D7%9E%D7%9F.-%D7%9E%D7%95%D7%98%D7%99-%D7%A7%D7%9E%D7%97%D7%99.jpg",
+        "img": "https://www.myheritageimages.com/X/storage/site165576962/files/50/03/77/500377_496055g83ibq58fj53q458.jpg",
         "gender": "F",
         "alive": "TRUE"
     },
