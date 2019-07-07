@@ -3,7 +3,7 @@ var DATA = [
         "name": "אורה נמיר",
         "img": "http://msc.wcdn.co.il/w/w-700/216145-5.jpg",
         "gender": "F",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "ראומה ויצמן",
@@ -45,7 +45,7 @@ var DATA = [
         "name": "שמואל פלאטו-שרון",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Plato_sharon.jpg/800px-Plato_sharon.jpg",
         "gender": "M",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "גבי עמרני",
@@ -87,7 +87,7 @@ var DATA = [
         "name": "חיים גורי",
         "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/ChaimGuri.jpg",
         "gender": "M",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "חיים חפר",
