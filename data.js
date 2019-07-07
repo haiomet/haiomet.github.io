@@ -1,13 +1,13 @@
 var DATA = [
     {
         "name": "אורה נמיר",
-        "img": "http://msc.wcdn.co.il/w/w-700/216145-5.jpg",
+        "img": "http://fs.knesset.gov.il/globaldocs/MK/158/1_158_3_406.jpeg",
         "gender": "F",
         "alive": "FALSE"
     },
     {
         "name": "ראומה ויצמן",
-        "img": "http://www.maariv.co.il/download/pictures/Reuma%20Weizman3%20(C)Ariel%20Jorozolimski.jpg",
+        "img": "http://blogs.haaretz.co.il/taliherutisover/files/2014/04/%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%99%D7%A6%D7%9E%D7%9F.-%D7%9E%D7%95%D7%98%D7%99-%D7%A7%D7%9E%D7%97%D7%99.jpg",
         "gender": "F",
         "alive": "TRUE"
     },
@@ -91,13 +91,13 @@ var DATA = [
     },
     {
         "name": "חיים חפר",
-        "img": "http://www.nrg.co.il/images/archive/300x225/1/100/162.jpg",
+        "img": "https://www.makorrishon.co.il/nrg/images/archive/300x225/1/100/162.jpg",
         "gender": "M",
         "alive": "FALSE"
     },
     {
         "name": "יעקב בודו",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Yaacov_Bodo.jpg/440px-Yaacov_Bodo.jpg",
+        "img": "https://img.wcdn.co.il/f_auto,w_700/2/6/6/0/2660671-46.jpg",
         "gender": "M",
         "alive": "TRUE"
     },
@@ -145,7 +145,7 @@ var DATA = [
     },
     {
         "name": "קארן דונסקי",
-        "img": "http://msc.wcdn.co.il/w/w-700/744809-5.jpg",
+        "img": "http://img.mako.co.il/2016/01/20/Anashim_vod_WIDE_i.jpg",
         "gender": "F",
         "alive": "TRUE"
     },
@@ -415,7 +415,7 @@ var DATA = [
     },
     {
         "name": "ליה ון ליר",
-        "img": "https://upload.wikimedia.org/wikipedia/he/2/2f/%D7%9C%D7%99%D7%94_%D7%95%D7%9F-%D7%9C%D7%99%D7%A8.jpg",
+        "img": "https://img.mako.co.il/2015/03/15/613783pic_I.jpg",
         "gender": "F",
         "alive": "FALSE"
     },
@@ -445,7 +445,7 @@ var DATA = [
     },
     {
         "name": "מיכה חריש",
-        "img": "http://msc.wcdn.co.il/w/w-700/1143191-5.jpg",
+        "img": "https://img.wcdn.co.il/w_200/9/1/7/2/917283-46.jpg",
         "gender": "M",
         "alive": "TRUE"
     },
@@ -499,7 +499,7 @@ var DATA = [
     },
     {
         "name": "יעקב רכטר",
-        "img": "http://msc.wcdn.co.il/w/w-300/1908795-18.jpg",
+        "img": "https://www.makorrishon.co.il/nrg/images/archive/300x225/892/876.jpg",
         "gender": "M",
         "alive": "FALSE"
     },
@@ -601,7 +601,7 @@ var DATA = [
     },
     {
         "name": "משה גרשוני",
-        "img": "https://upload.wikimedia.org/wikipedia/he/8/84/%D7%9E%D7%A9%D7%94_%D7%92%D7%A8%D7%A9%D7%95%D7%A0%D7%99_%D7%AA%D7%A6%D7%9C%D7%95%D7%9D.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Moshe_Gershuni_2008.jpg/220px-Moshe_Gershuni_2008.jpg",
         "gender": "M",
         "alive": "FALSE"
     },
@@ -655,7 +655,7 @@ var DATA = [
     },
     {
         "name": "אפרים סידון",
-        "img": "http://www.nrg.co.il/images/archive/465x349/1/118/764.jpg",
+        "img": "http://www.navaro.co.il/site/upload/photos/136189469360358197a_t.jpg",
         "gender": "M",
         "alive": "TRUE"
     },
@@ -691,13 +691,13 @@ var DATA = [
     },
     {
         "name": "יורם טהרלב",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Taharlev.JPG",
+        "img": "http://www.taharlev.com/images/hppic.jpg",
         "gender": "M",
         "alive": "TRUE"
     },
     {
         "name": "חיים טופול",
-        "img": "http://www.nrg.co.il/images/archive/465x349/1/629/064.jpg",
+        "img": "https://www.maariv.co.il/HttpHandlers/ShowImage.ashx?id=319022&w=690&h=580",
         "gender": "M",
         "alive": "TRUE"
     },
@@ -709,7 +709,7 @@ var DATA = [
     },
     {
         "name": "רוני מילוא",
-        "img": "http://3v35mpvv32l1jp6uv9q03h9x.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/Screenshot_1-15-600x321.png",
+        "img": "https://img.wcdn.co.il/f_auto,w_500,t_54/1/3/8/4/1384799-46.jpg",
         "gender": "M",
         "alive": "TRUE"
     },
