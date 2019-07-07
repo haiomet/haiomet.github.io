@@ -117,7 +117,7 @@ var DATA = [
         "name": "יונה עטרי",
         "img": "http://www.zemereshet.co.il/AdjustImage.aspx?MaxWidth=374&MaxHeight=374&src=UserFiles/Image/artists/yona_atari/yona1.jpg",
         "gender": "F",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "אילי גורליצקי",
