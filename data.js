@@ -111,7 +111,7 @@ var DATA = [
         "name": "מאיר שמגר",
         "img": "http://images1.ynet.co.il//PicServer4/2016/08/10/7191729/8222933_8327943_rumble.jpg",
         "gender": "M",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "יונה עטרי",
@@ -273,7 +273,7 @@ var DATA = [
         "name": "ישראל קיסר",
         "img": "https://upload.wikimedia.org/wikipedia/he/1/1d/NACHUM3_-_Yisrael_Kessar.jpg",
         "gender": "M",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "יהודה קיסר",
@@ -495,7 +495,7 @@ var DATA = [
         "name": "ניקו ניתאי",
         "img": "https://upload.wikimedia.org/wikipedia/he/thumb/a/ae/%D7%94%D7%A0%D7%A4%D7%99%D7%9C%D7%94_-_%D7%A0%D7%99%D7%A7%D7%95_%D7%A0%D7%99%D7%AA%D7%90%D7%99.jpg/500px-%D7%94%D7%A0%D7%A4%D7%99%D7%9C%D7%94_-_%D7%A0%D7%99%D7%A7%D7%95_%D7%A0%D7%99%D7%AA%D7%90%D7%99.jpg",
         "gender": "M",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "יעקב רכטר",
@@ -777,7 +777,7 @@ var DATA = [
         "name": "רפי איתן",
         "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rafi_eitan_big.jpg",
         "gender": "M",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "חיים יבין",
