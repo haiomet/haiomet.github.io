@@ -543,7 +543,7 @@ var DATA = [
         "name": "יהושע קנז",
         "img": "https://upload.wikimedia.org/wikipedia/he/4/43/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%A7%D7%A0%D7%96_1991_%D7%A6%D7%99%D7%9C%D7%95%D7%9D-%D7%9E%D7%95%D7%98%D7%99_%D7%A7%D7%99%D7%A7%D7%99%D7%95%D7%9F.jpg",
         "gender": "M",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "אהרן מגד",
