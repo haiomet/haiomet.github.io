@@ -48,17 +48,17 @@
         </div>
     </div>
 
-    <div class="row" ng-repeat="person in ALL_DATA track by $index" ng-if="Math.floor($index / SET_SIZE) === round">
+    <div class="row" ng-repeat="person in currentSet">
         <div class="col-xs-12 col-md-12">
             <div class="person">
-                <img ng-class="styleForAnswer($index)" src="images/loading.svg" lazy-img="{{person.img}}"/>
+                <img ng-class="styleForAnswer(person)" src="images/loading.svg" lazy-img="{{person.img}}"/>
                 <div class="name">{{ person.name }}</div>
                 <div class="selection">
-                    <button ng-click="selectAnswer($index, true)" type="button"
+                    <button ng-disabled="person.correct !== -1" ng-click="selectAnswer(person, true)" type="button"
                             class="btn btn-outline-dark btn-lg">{{person.gender.toLowerCase() === 'f' ? 'חיה' :
                         'חי'}}
                     </button>
-                    <button ng-click="selectAnswer($index, false)" type="button" class="btn btn-outline-dark btn-lg">
+                    <button ng-disabled="person.correct !== -1" ng-click="selectAnswer(person, false)" type="button" class="btn btn-outline-dark btn-lg">
                         {{person.gender.toLowerCase() === 'f' ? 'מתה' : 'מת'}}
                     </button>
                 </div>
@@ -92,15 +92,14 @@
 <footer class="footer">
     <div class="container">
         <div class="progress progress-score">
-            <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar"
-                 style="width: {{progress.totalCorrect}}%" aria-valuenow="{{progress.totalCorrect}}"
-                 aria-valuemin="0" aria-valuemax="{{progress.total}}">{{progress.totalCorrect}}
+            <div id="progress-correct" class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar"
+                 ng-style="{width: progress.correctWidth}" [attr.aria-valuenow]="progress.totalCorrect"
+                 aria-valuemin="0" [attr.aria-valuemax]="progress.total">{{progress.totalCorrect}}
             </div>
 
-            <div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar"
-                 style="width: {{progress.totalWrong}}%"
-                 aria-valuenow="{{progress.totalWrong}}"
-                 aria-valuemin="0" aria-valuemax="{{progress.total}}">{{progress.totalWrong}}
+            <div id="progress-wrong" class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar"
+                 ng-style="{width: progress.wrongWidth}" [attr.aria-valuenow]="progress.totalWrong"
+                 aria-valuemin="0" [attr.aria-valuemax]="progress.total">{{progress.totalWrong}}
             </div>
 
         </div>
