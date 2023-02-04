@@ -1,4 +1,4 @@
-var DATA = [
+const DATA = [
     {
         "name": "אורה נמיר",
         "img": "http://fs.knesset.gov.il/globaldocs/MK/158/1_158_3_406.jpeg",
@@ -7,7 +7,7 @@ var DATA = [
     },
     {
         "name": "ראומה ויצמן",
-        "img": "https://www.myheritageimages.com/X/storage/site165576962/files/50/03/77/500377_496055g83ibq58fj53q458.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/929_-_Bible_together_%28cropped%29.jpg",
         "gender": "F",
         "alive": "TRUE"
     },
