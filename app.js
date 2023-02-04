@@ -58,7 +58,7 @@ app.controller('haiometController', function ($scope, $http, $window) {
 
     $scope.nextRound = function () {
         $window.scrollTo(0, 0);
-        $scope.round = Math.floor(Math.random() * $scope.maxRounds) + 1;
+        $scope.round = ($scope.round + 1) % $scope.maxRounds;
         $scope.initRound();
     };
 
