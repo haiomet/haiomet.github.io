@@ -385,7 +385,7 @@ const DATA = [
     },
     {
         "name": "שאול אברון",
-        "img": "https://upload.wikimedia.org/wikipedia/he/5/57/%D7%A9%D7%90%D7%95%D7%9C_%D7%90%D7%91%D7%A8%D7%95%D7%9F.JPG",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%D7%A9%D7%90%D7%95%D7%9C_%D7%90%D7%91%D7%A8%D7%95%D7%9F_%28cropped%29.JPG",
         "gender": "M",
         "alive": "FALSE"
     },
@@ -421,7 +421,7 @@ const DATA = [
     },
     {
         "name": "אניטה פללי",
-        "img": "http://img1.tapuz.co.il/CommunaFiles/313011.jpg",
+        "img": "https://images1.ynet.co.il/PicServer2/01082004/452338/3_hh.jpg",
         "gender": "F",
         "alive": "TRUE"
     },
@@ -637,7 +637,7 @@ const DATA = [
     },
     {
         "name": "יאיר רוזנבלום",
-        "img": "http://www.maariv.co.il/download/pictures/%D7%99%D7%90%D7%99%D7%A8%20%D7%A8%D7%95%D7%96%D7%A0%D7%91%D7%9C%D7%95%D7%9D%20%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%A8%D7%A4%D7%A8%D7%95%D7%93%D7%95%D7%A7%D7%A6%D7%99%D7%94%20%D7%90%D7%A8%D7%99%D7%90%D7%9C%20%D7%91%D7%A9%D7%95%D7%A8%20480.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/he/1/1b/%D7%99%D7%90%D7%99%D7%A8_%D7%A8%D7%95%D7%96%D7%A0%D7%91%D7%9C%D7%95%D7%9D.jpg",
         "gender": "M",
         "alive": "FALSE"
     },
@@ -715,7 +715,7 @@ const DATA = [
     },
     {
         "name": "שפרירה זכאי",
-        "img": "https://upload.wikimedia.org/wikipedia/he/c/cd/%D7%A9%D7%A4%D7%A8%D7%99%D7%A8%D7%94_%D7%96%D7%9B%D7%90%D7%99_%D7%AA%D7%9E%D7%95%D7%A0%D7%94_%D7%9E%D7%A8%D7%90%D7%99%D7%95%D7%9F_%D7%90%D7%99%D7%A9%D7%99.jpeg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%D7%A9%D7%A4%D7%A8%D7%99%D7%A8%D7%94_%D7%96%D7%9B%D7%90%D7%99.jpg",
         "gender": "F",
         "alive": "TRUE"
     },
@@ -787,7 +787,7 @@ const DATA = [
     },
     {
         "name": "שייקה לוי",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Shaike_Levi_2009_2.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%D7%A9%D7%99%D7%A7%D7%94_%D7%A9%D7%99%D7%99%D7%A7%D7%94_%D7%9C%D7%95%D7%99_%D7%91%D7%94%D7%9C%D7%95%D7%95%D7%99%D7%AA%D7%95_%D7%A9%D7%9C_%D7%90%D7%A8%D7%99%D7%A7_%D7%90%D7%99%D7%99%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F.JPG/1920px-%D7%A9%D7%99%D7%A7%D7%94_%D7%A9%D7%99%D7%99%D7%A7%D7%94_%D7%9C%D7%95%D7%99_%D7%91%D7%94%D7%9C%D7%95%D7%95%D7%99%D7%AA%D7%95_%D7%A9%D7%9C_%D7%90%D7%A8%D7%99%D7%A7_%D7%90%D7%99%D7%99%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F.JPG",
         "gender": "M",
         "alive": "TRUE"
     }
