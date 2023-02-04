@@ -21,7 +21,7 @@ const DATA = [
         "name": "יצחק קלפטר",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%D7%99%D7%A6%D7%97%D7%A7_%D7%A7%D7%9C%D7%A4%D7%98%D7%A8.JPG/400px-%D7%99%D7%A6%D7%97%D7%A7_%D7%A7%D7%9C%D7%A4%D7%98%D7%A8.JPG",
         "gender": "M",
-        "alive": 1
+        "alive": 0
     },
     {
         "name": "דודו דותן",
