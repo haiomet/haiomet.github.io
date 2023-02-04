@@ -33,7 +33,7 @@ const DATA = [
         "name": "רות דיין",
         "img": "http://images1.ynet.co.il/xnet//PicServer2/pic/052013/372453/6_36.jpg",
         "gender": "F",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "אהרן פררה",
@@ -267,7 +267,7 @@ const DATA = [
         "name": "יעקב אגמון",
         "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Yankale_agmon11.jpg",
         "gender": "M",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "ישראל קיסר",
@@ -559,7 +559,7 @@ const DATA = [
     },
     {
         "name": "נסים קיויתי",
-        "img": "https://www.jsport.co.il/wp-content/uploads/2016/12/DSC_847320-.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/%D7%A0%D7%99%D7%A1%D7%99%D7%9D.jpg",
         "gender": "M",
         "alive": "TRUE"
     },
@@ -597,7 +597,7 @@ const DATA = [
         "name": "יגאל תומרקין",
         "img": "https://upload.wikimedia.org/wikipedia/commons/9/9c/YigalTumarkin.jpg",
         "gender": "M",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "משה גרשוני",
@@ -621,7 +621,7 @@ const DATA = [
         "name": "גרי אקשטיין",
         "img": "http://stereo-ve-mono.com/sleeves/09/0920301b.jpg",
         "gender": "M",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "עוזי פוקס",
@@ -693,7 +693,7 @@ const DATA = [
         "name": "יורם טהרלב",
         "img": "http://www.taharlev.com/images/hppic.jpg",
         "gender": "M",
-        "alive": "TRUE"
+        "alive": "FALSE"
     },
     {
         "name": "חיים טופול",
