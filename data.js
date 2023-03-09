@@ -699,7 +699,7 @@ const DATA = [
         "name": "חיים טופול",
         "img": "https://www.maariv.co.il/HttpHandlers/ShowImage.ashx?id=319022&w=690&h=580",
         "gender": "M",
-        "alive": 1
+        "alive": 0
     },
     {
         "name": "שלמה להט",
