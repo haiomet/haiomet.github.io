@@ -315,7 +315,7 @@ const DATA = [
         "name": "מאיר ויזלטיר",
         "img": "http://www.habama.co.il/Habama/Upload/other/%D7%9E%D7%90%D7%99%D7%A8-%D7%95%D7%99%D7%96%D7%9C%D7%98%D7%99%D7%A8.jpg",
         "gender": "M",
-        "alive": 1
+        "alive": 0
     },
     {
         "name": "מני פאר",
