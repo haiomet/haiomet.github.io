@@ -441,7 +441,7 @@ const DATA = [
         "name": "יגאל שילון",
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/78/Igal_sgilon.jpg",
         "gender": "M",
-        "alive": 1
+        "alive": 0
     },
     {
         "name": "מיכה חריש",
@@ -561,7 +561,7 @@ const DATA = [
         "name": "נסים קיויתי",
         "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/%D7%A0%D7%99%D7%A1%D7%99%D7%9D.jpg",
         "gender": "M",
-        "alive": 1
+        "alive": 0
     },
     {
         "name": "דוד פרלוב",
@@ -651,7 +651,7 @@ const DATA = [
         "name": "יהונתן גפן",
         "img": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Yehonatan_Geffen_1.jpg",
         "gender": "M",
-        "alive": 1
+        "alive": 0
     },
     {
         "name": "אפרים סידון",
@@ -681,7 +681,7 @@ const DATA = [
         "name": "יואל הופמן",
         "img": "https://library.osu.edu/projects/hebrew-lexicon/00817-files/image004.jpg",
         "gender": "M",
-        "alive": 1
+        "alive": 0
     },
     {
         "name": "יורם קניוק",
