@@ -243,7 +243,7 @@ const DATA = [
         "name": "רות וסטהיימר",
         "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dr._Ruth_Westheimer_by_David_Shankbone.jpg",
         "gender": "F",
-        "alive": 1
+        "alive": 0
     },
     {
         "name": "גדי יגיל",
