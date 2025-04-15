@@ -9,7 +9,7 @@ const DATA = [
         "name": "ראומה ויצמן",
         "img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/929_-_Bible_together_%28cropped%29.jpg",
         "gender": "F",
-        "alive": 1
+        "alive": 0
     },
     {
         "name": "ספי ריבלין",
